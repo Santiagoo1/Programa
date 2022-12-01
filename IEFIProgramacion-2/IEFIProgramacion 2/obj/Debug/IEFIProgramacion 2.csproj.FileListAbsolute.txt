@@ -1,0 +1,37 @@
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.AssemblyReference.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion_2.Form1.resources
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion_2.Properties.Resources.resources
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.GenerateResource.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.CoreCompileInputs.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.exe.config
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.exe
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.pdb
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Entidades.dll
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Negocio.dll
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Datos.dll
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Entidades.pdb
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Negocio.pdb
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Datos.pdb
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.CopyComplete
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.exe
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.exe.config
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.exe
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\IEFIProgramacion 2.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Entidades.dll
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Negocio.dll
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Datos.dll
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Entidades.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Negocio.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Datos.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.AssemblyReference.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion_2.Form1.resources
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion_2.Properties.Resources.resources
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.GenerateResource.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.CoreCompileInputs.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.csproj.CopyComplete
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.exe
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\obj\Debug\IEFIProgramacion 2.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\IEFIProgramacion 2\bin\Debug\Datos.dll.config

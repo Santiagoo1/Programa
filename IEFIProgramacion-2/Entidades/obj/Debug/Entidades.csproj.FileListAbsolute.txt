@@ -1,0 +1,12 @@
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\bin\Debug\Entidades.dll
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.dll
+C:\Users\g-oha\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\bin\Debug\Entidades.dll
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.dll
+C:\Users\san_m\source\repos\IEFIProgramacion-2\Entidades\obj\Debug\Entidades.pdb
